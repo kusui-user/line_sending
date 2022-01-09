@@ -90,3 +90,5 @@ def notify_message(message):
 
 notify_message('おはようございます')
 
+print('good')
+
