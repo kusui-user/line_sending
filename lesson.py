@@ -88,7 +88,7 @@ def notify_message(message):
                   data=data
                   )
 
-notify_message('おはようございますtoday2022.2.5')
+notify_message('おはようございますtoday2022.2.5追加')
 
 print('good')
 
